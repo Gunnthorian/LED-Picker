@@ -1,7 +1,7 @@
 # LED-Picker
 A desktop color picker application that controls LED's via an Arduino
 
-[![Unit Logo](https://rawgit.com/Gunnthorian/LED-Picker/blob/master/example.png)](https://github.com/Gunnthorian)
+[![Unit Logo](https://github.com/Gunnthorian/LED-Picker/blob/master/example.png?raw=true)](https://github.com/Gunnthorian)
 
 Sends values such as:<br>
 `R:130`<br>
